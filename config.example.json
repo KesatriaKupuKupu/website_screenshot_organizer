@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "github.com": "GitHub",
+    "wikipedia.org": "Wikipedia",
+    "python.org": "Python"
+  },
+  "unknown_folder": "Other",
+  "urls": [
+    "https://github.com/",
+    "https://www.python.org/"
+  ]
+}
